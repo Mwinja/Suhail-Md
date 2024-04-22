@@ -35,7 +35,7 @@
 <p align="center">
 
  <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
+ <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=Shadveld&label=owner"></a>
    <a href="https://github.com/SuhailTechInfo">
     <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
   </a>
